@@ -1,5 +1,5 @@
 # DNSoverHttpsDomainNameSniffer
-
+![DNS over HTTPS Sniffer Screenshot](sniffe.png)
 DNS over HTTPS Domain Name Sniffer
 
 Welcome to the official page of my **DNS over HTTPS Domain Name Sniffer**.
