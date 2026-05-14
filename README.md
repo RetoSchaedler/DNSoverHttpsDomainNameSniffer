@@ -51,7 +51,7 @@ Download the DNS over HTTPS Sniffer today and take full control of your network 
 
 ---
 
-## Linux Binary
+## Linux Binary for x86
 
 ```bash
 unzip dnsTlsSniffer812Linux.zip
