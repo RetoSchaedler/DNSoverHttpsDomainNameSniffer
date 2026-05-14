@@ -1,8 +1,8 @@
 # DNSoverHttpsDomainNameSniffer
 DNS over HTTPS Domain Name Sniffer\r
-Welcome to the official page of my DNS over HTTPS Domain Name Sniffer\r
-Key Features
-DNS and TLS Domain Name Display
+Welcome to the official page of my DNS over HTTPS Domain Name Sniffer\n
+Key Features\n
+DNS and TLS Domain Name Display\n
 My sniffer not only detects traditional DNS queries but also displays TLS domain names (SNI), making it possible to identify domains even when using DNS over HTTPS.
 Modern Web Interface
 A sleek and intuitive web interface ensures ease of use. With live updates via WebSockets, you stay informed in real time.
