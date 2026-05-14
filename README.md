@@ -58,9 +58,7 @@ unzip dnsTlsSniffer812Linux.zip
 chmod +x ./dnsTlsSniffer812Linux
 sudo ./dnsTlsSniffer812Linux
 
----
-## error while loading shared libraries: libpcap.so.0.8: cannot open shared object file: No such file or directory
 
-```bash
+# error while loading shared libraries: libpcap.so.0.8: cannot open shared object file: No such file or directory
 sudo apt update
 sudo apt install libpcap-dev libpcap0.8
